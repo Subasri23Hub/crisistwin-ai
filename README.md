@@ -2,6 +2,8 @@
 
 > An AI-powered decision support system designed to simulate, analyze, and respond to real-world business crises using advanced prompt engineering and Retrieval-Augmented Generation (RAG).
 
+> Live Application : https://crisistwin-ai-seg5sosyr4my6j3ysj7pw3.streamlit.app/
+
 ---
 
 ## Table of Contents
